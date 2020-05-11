@@ -1,5 +1,5 @@
 <template>
-  <div>用户</div>
+  <div class='container'>用户</div>
 </template>
 
 <script>
